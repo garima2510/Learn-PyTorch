@@ -16,6 +16,9 @@ data/
 *.pth
 *.ckpt
 
+# Course slides (any "slides" folder at any depth)
+**/slides/
+
 # Secrets / local config
 .env
 *.env
